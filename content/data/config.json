@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "http://jolly-mud-0a79b460f.azurestaticapps.net"
 }
